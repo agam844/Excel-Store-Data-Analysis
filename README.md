@@ -13,7 +13,7 @@ This project involves analyzing a store's raw sales data using Microsoft Excel. 
   - **Age Groups**: Categorized customers into predefined age brackets.  
   - **Month of the Year**: Extracted the month from the date for time-based analysis.
 
-![Image Description](Excelraw.png)
+![Image Description](ExcelRaw.png)
 
 
 ### **3. Data Analysis using Pivot Tables**  
@@ -21,7 +21,9 @@ Built multiple pivot tables to analyze trends and answer key business questions:
 - **Gender-based Sales Trends**: Which gender places more orders?  
 - **Age Group Analysis**: Which age group contributes the most to sales?  
 - **Seasonality Analysis**: Identified the most profitable months.  
-- **Geographical Insights**: Determined which state generated the highest number of orders.  
+- **Geographical Insights**: Determined which state generated the highest number of orders.
+
+![Image Description](PivotTable.png)
 
 ### **4. Interactive Dashboard with Slicers**  
 - Added **slicers** for easy filtering and exploration of data.  
@@ -30,7 +32,9 @@ Built multiple pivot tables to analyze trends and answer key business questions:
 ## **Insights & Conclusions**  
 - Discovered key trends in customer demographics and purchasing behavior.  
 - Identified peak sales periods and high-performing locations.  
-- Provided actionable recommendations for business strategy based on data-driven insights.  
+- Provided actionable recommendations for business strategy based on data-driven insights.
+
+![Image Description](AnalysisPage.png)
 
 ## **Technology Used**  
 - **Microsoft Excel** (Data Cleaning, Pivot Tables, Slicers, Macros)  
