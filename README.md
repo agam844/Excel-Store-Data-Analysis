@@ -14,7 +14,7 @@ This project involves analyzing a store's raw sales data using Microsoft Excel. 
   - **Month of the Year**: Extracted the month from the date for time-based analysis.
 
  ![Image Description](Retail-Sales-Data-Analysis-using-Excel
-/Excel raw.PNG)
+/Excelraw.PNG)
 
 
 ### **3. Data Analysis using Pivot Tables**  
