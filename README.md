@@ -23,7 +23,7 @@ Built multiple pivot tables to analyze trends and answer key business questions:
 - **Seasonality Analysis**: Identified the most profitable months.  
 - **Geographical Insights**: Determined which state generated the highest number of orders.
 
-![Image Description](PivotTable.png)
+![Image Description](PivotTable.PNG)
 
 ### **4. Interactive Dashboard with Slicers**  
 - Added **slicers** for easy filtering and exploration of data.  
