@@ -11,7 +11,10 @@ This project involves analyzing a store's raw sales data using Microsoft Excel. 
 ### **2. Data Transformation using Macros**  
 - Created **new columns** using VBA macros:  
   - **Age Groups**: Categorized customers into predefined age brackets.  
-  - **Month of the Year**: Extracted the month from the date for time-based analysis.  
+  - **Month of the Year**: Extracted the month from the date for time-based analysis.
+
+ ![Image Description](Main/Excel_sheet.png)
+
 
 ### **3. Data Analysis using Pivot Tables**  
 Built multiple pivot tables to analyze trends and answer key business questions:  
