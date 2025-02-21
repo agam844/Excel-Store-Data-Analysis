@@ -13,8 +13,7 @@ This project involves analyzing a store's raw sales data using Microsoft Excel. 
   - **Age Groups**: Categorized customers into predefined age brackets.  
   - **Month of the Year**: Extracted the month from the date for time-based analysis.
 
- ![Image Description](Retail-Sales-Data-Analysis-using-Excel
-/Excelraw.PNG)
+![Image Description](Excelraw.png)
 
 
 ### **3. Data Analysis using Pivot Tables**  
